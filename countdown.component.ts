@@ -7,7 +7,7 @@ import { take, map } from 'rxjs/operators';
 })
 export class App {
    countDown;
-   count = 60;
+   count = 30;
 
    constructor() {
 
